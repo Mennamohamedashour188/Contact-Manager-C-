@@ -45,4 +45,4 @@ This application allows users to manage contacts efficiently using a JSON-based 
 
 3.When prompted, enter the JSON file name (example: contacts.json) for storing and loading contacts.
 If the file does not exist, it will be created automatically.
-1ز
+
