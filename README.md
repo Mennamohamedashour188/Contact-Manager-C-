@@ -36,19 +36,30 @@ This application allows users to manage contacts efficiently using a JSON-based 
 
   
 2.Follow the CLI menu:
+
  === Contact Manager ===
+ 
     1. Add Contact
+    
     2. Edit Contact
+    
     3. Delete Contact
+    
     4. View Contact
+    
     5. List Contacts
+    
     6. Search Contact
+    
     7. Filter Contacts
+    
     8. Save
+    
     9. Exit
 
     
 
 3.When prompted, enter the JSON file name (example: contacts.json) for storing and loading contacts.
+
 If the file does not exist, it will be created automatically.
 
