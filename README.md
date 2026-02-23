@@ -29,6 +29,8 @@ This application allows users to manage contacts efficiently using a JSON-based 
 ---
 
 ▶ How to Run
+
+
 1.Run the application:
   dotnet run
 2.Follow the CLI menu:
